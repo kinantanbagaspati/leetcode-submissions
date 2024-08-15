@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        int freq[2] = {0, 0};
-        for(int i=0; i<bills.size(); i++){
+        unsigned short freq[2] = {0, 0}, n = bills.size();
+        for(int i=0; i<n; i++){
             if(bills[i] == 5){
                 freq[0]++;
             }else if(bills[i] == 10){
