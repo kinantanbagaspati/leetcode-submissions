@@ -16,7 +16,7 @@ public:
             dis[i] = (int) (i == start_node);
             vis[i] = false;
         }
-        s.insert({-1, 0});
+        s.insert({-1, start_node});
         //cout << "masuk" << endl;
         while(!s.empty()){
             //cout << s.size() << endl;
