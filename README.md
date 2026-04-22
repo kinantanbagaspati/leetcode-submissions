@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
