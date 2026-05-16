@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kinantanbagaspati/leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## String
 | Problem Name | Difficulty |
